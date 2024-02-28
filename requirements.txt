@@ -1,1 +1,6 @@
-tts
+pip:
+-TTS (best if downloaded on github)
+
+apt-get:
+-espeak
+-ffmpeg

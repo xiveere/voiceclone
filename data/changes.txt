@@ -1,0 +1,10 @@
+$ -> dollar
+York -> Yorrick
+
+Tyler1 Talks (230): Aiden -> Maiden
+
+
+For 
+https://github.com/coqui-ai/TTS/issues/2971
+
+Remove T1 Talks 99 - UTF error?
