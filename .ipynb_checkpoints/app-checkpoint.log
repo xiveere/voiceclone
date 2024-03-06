@@ -1,0 +1,33 @@
+2024-03-05 08:00:17,443INFO:Starting model init
+2024-03-05 08:02:31,423INFO:Starting model init
+2024-03-05 08:04:13,586INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+2024-03-05 08:04:13,587INFO:[33mPress CTRL+C to quit[0m
+2024-03-05 08:04:13,588INFO: * Restarting with stat
+2024-03-05 08:07:19,621INFO:Starting model init
+2024-03-05 08:08:28,955INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8800
+2024-03-05 08:08:28,956INFO:[33mPress CTRL+C to quit[0m
+2024-03-05 08:08:28,957INFO: * Restarting with stat
+2024-03-05 08:25:14,302INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8080
+2024-03-05 08:25:14,302INFO:[33mPress CTRL+C to quit[0m
+2024-03-05 08:25:14,302INFO: * Restarting with stat
+2024-03-05 08:27:35,990INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8081
+2024-03-05 08:27:35,990INFO:[33mPress CTRL+C to quit[0m
+2024-03-05 08:27:35,990INFO: * Restarting with stat
+2024-03-05 08:28:36,774INFO:Starting model init
+2024-03-05 08:29:35,399INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8081
+2024-03-05 08:29:35,399INFO:[33mPress CTRL+C to quit[0m
+2024-03-05 08:29:35,400INFO: * Restarting with stat
+2024-03-05 08:39:57,812INFO:Starting model init
+2024-03-05 08:41:02,769INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:17796
+2024-03-05 08:41:02,770INFO:[33mPress CTRL+C to quit[0m
+2024-03-05 08:41:02,771INFO: * Restarting with stat
+2024-03-05 08:55:33,236INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:17796
+2024-03-05 08:55:33,236INFO:[33mPress CTRL+C to quit[0m
+2024-03-05 08:55:33,236INFO: * Restarting with stat

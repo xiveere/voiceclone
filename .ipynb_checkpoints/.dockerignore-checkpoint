@@ -1,0 +1,8 @@
+.git/
+Dockerfile
+xttsv2_checkpoint/
+data/
+app.log
+generate_xtts.ipynb
+push_artifacts.ipynb
+model.tar.gz
