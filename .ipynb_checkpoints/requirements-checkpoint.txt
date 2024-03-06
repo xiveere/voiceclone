@@ -1,0 +1,7 @@
+pip:
+-TTS (best if downloaded on github)
+-pydub
+
+apt-get:
+-espeak
+-ffmpeg
