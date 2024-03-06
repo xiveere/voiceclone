@@ -1,6 +1,7 @@
 pip:
 -TTS (best if downloaded on github)
 -python-dotenv
+-supabase-py
 -psycopg2-binary
 
 apt-get:
